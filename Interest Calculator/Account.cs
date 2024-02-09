@@ -1,12 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Interest_Calculator
+﻿
+internal class Account
 {
-    internal class Class1
-    {
-    }
 }

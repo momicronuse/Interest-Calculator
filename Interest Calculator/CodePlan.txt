@@ -1,0 +1,18 @@
+﻿1 Ask user for information about accounts
+	1.1 Ask for number of accounts
+	1.2 Monthly or yearly inputs into account
+		1.2.1 Enter amount
+	1.3 Ask for interest rate of account
+		1.3.1 How many times a year is interest paid
+	1.4 Account balance as of today
+	1.5 Does this account pay tax on interest
+	1.6 Account information for how many years from now
+	1.7 Average yearly income
+
+2 Create Account array with number of accounts for size of array
+	2.1 Enter all information into each account in the array
+	2.2 Calculate end balance, money gained, average per month
+	2.3 Also calculate tax paid on interest
+		2.3.1 Cash ISA interest equivalent to taxed savings account
+
+3 Display information for all accounts from (2)

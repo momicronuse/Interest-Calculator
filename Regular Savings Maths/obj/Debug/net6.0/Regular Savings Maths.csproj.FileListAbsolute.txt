@@ -1,0 +1,15 @@
+C:\Users\Admin\Documents\C# Solutions\Interest-Calculator\Regular Savings Maths\bin\Debug\net6.0\Regular Savings Maths.exe
+C:\Users\Admin\Documents\C# Solutions\Interest-Calculator\Regular Savings Maths\bin\Debug\net6.0\Regular Savings Maths.deps.json
+C:\Users\Admin\Documents\C# Solutions\Interest-Calculator\Regular Savings Maths\bin\Debug\net6.0\Regular Savings Maths.runtimeconfig.json
+C:\Users\Admin\Documents\C# Solutions\Interest-Calculator\Regular Savings Maths\bin\Debug\net6.0\Regular Savings Maths.dll
+C:\Users\Admin\Documents\C# Solutions\Interest-Calculator\Regular Savings Maths\bin\Debug\net6.0\Regular Savings Maths.pdb
+C:\Users\Admin\Documents\C# Solutions\Interest-Calculator\Regular Savings Maths\obj\Debug\net6.0\Regular Savings Maths.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\C# Solutions\Interest-Calculator\Regular Savings Maths\obj\Debug\net6.0\Regular Savings Maths.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\C# Solutions\Interest-Calculator\Regular Savings Maths\obj\Debug\net6.0\Regular Savings Maths.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\C# Solutions\Interest-Calculator\Regular Savings Maths\obj\Debug\net6.0\Regular Savings Maths.AssemblyInfo.cs
+C:\Users\Admin\Documents\C# Solutions\Interest-Calculator\Regular Savings Maths\obj\Debug\net6.0\Regular Savings Maths.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\C# Solutions\Interest-Calculator\Regular Savings Maths\obj\Debug\net6.0\Regular Savings Maths.dll
+C:\Users\Admin\Documents\C# Solutions\Interest-Calculator\Regular Savings Maths\obj\Debug\net6.0\refint\Regular Savings Maths.dll
+C:\Users\Admin\Documents\C# Solutions\Interest-Calculator\Regular Savings Maths\obj\Debug\net6.0\Regular Savings Maths.pdb
+C:\Users\Admin\Documents\C# Solutions\Interest-Calculator\Regular Savings Maths\obj\Debug\net6.0\Regular Savings Maths.genruntimeconfig.cache
+C:\Users\Admin\Documents\C# Solutions\Interest-Calculator\Regular Savings Maths\obj\Debug\net6.0\ref\Regular Savings Maths.dll

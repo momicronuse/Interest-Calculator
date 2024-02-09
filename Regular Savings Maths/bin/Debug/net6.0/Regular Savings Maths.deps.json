@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Regular Savings Maths/1.0.0": {
+        "runtime": {
+          "Regular Savings Maths.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Regular Savings Maths/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

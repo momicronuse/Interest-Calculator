@@ -1,18 +1,31 @@
-﻿1 Ask user for information about accounts
-	1.1 Ask for number of accounts
-	1.2 Monthly or yearly inputs into account
-		1.2.1 Enter amount
-	1.3 Ask for interest rate of account
-		1.3.1 How many times a year is interest paid
-	1.4 Account balance as of today
-	1.5 Does this account pay tax on interest
-	1.6 Account information for how many years from now
-	1.7 Average yearly income
+﻿1 - Calculating tax rates
+	1.1 - Calculating tax Bands 
+		If income is > 12570 and < 37700, tax band = 20%
+		If income is > 37700 and < 125140 tax band = 40%
+		If income is > 125140 tax band = 45%
 
-2 Create Account array with number of accounts for size of array
-	2.1 Enter all information into each account in the array
-	2.2 Calculate end balance, money gained, average per month
-	2.3 Also calculate tax paid on interest
-		2.3.1 Cash ISA interest equivalent to taxed savings account
+	1.2 - Calculating untaxed savings
+		If income is < 12570, savings tax% = 0.
+		If income is > 12570 && < 17570, untaxed savings = 17570 - income.
+		If income is >= 17570 && tax band = 20% (basic rate), untaxed savings = £1000.
+		If income is >= 17570 && tax band = 40% (higher rate), untaxed savings = £500.
+		If income is >= 1750 && tax band = 45% (additional rate), untaxed savings = £0.
+		Any interest earned over untaxed savings is taxed at the rate of tax band
 
-3 Display information for all accounts from (2)
+2 - Calculate if its worth to swap to ISA or keep paying tax in savings
+	2.1 -
+		Calculate interest earned on savings account at the end of the month, then calculate how much tax is paid on the interest earned and the net earnings
+
+	2.2 -
+		Calculate the maximum amount you can have in a savings account at the input interest rate without being taxed on it, assume any leftovers go into the ISA
+        Then calculate the minimum interest rate the ISA would need to have to match the net earnings from the savings account
+
+3 - Display information
+	3.1 - 
+		Display interest earned from savings account, tax paid on those savings, and the net earnings
+		Display the minimum interest rate for the ISA, and the maximum amount of savings to keep in the savings account if money were to be moved to ISA
+
+
+
+
+
